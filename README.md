@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./binary_skull_animated.gif" width="340" style="border-radius: 12px;" alt="Shaurya Singh Binary Matrix Portrait" />
+  <img src="./binary_skull_animated.gif" width="3400" style="border-radius: 12px;" alt="Shaurya Singh Binary Matrix Portrait" />
   <br>
   <sub><i>⚡ Matrix Binary Portrait (Generated with 0s & 1s via Python) ⚡</i></sub>
 </p>
