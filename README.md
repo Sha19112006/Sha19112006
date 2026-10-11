@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Sha19112006">Shaurya Singh</a> 👋</h1>
-<h3 align="center">Machine Learning & Data Science Enthusiast | Python, Java & SQL | EDA Specialist</h3>
+<h3 align="center">Machine Learning & Data Science Enthusiast | Python, Java & SQL | EDA </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Predictive+Modeling;Exploratory+Data+Analysis+(EDA);Python+%7C+Java+%7C+SQL;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;Turning+Raw+Data+Into+Actionable+Insights" alt="Typing SVG" />
